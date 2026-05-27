@@ -2,7 +2,7 @@
 %           Session 2 | Step 1              %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Rodrigo Gamboa & Francisco Montes | May 2024
-
+% Hola soy el Mau
 
 %-OBJECTIVE-%
 
